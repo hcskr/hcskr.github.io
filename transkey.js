@@ -3586,3 +3586,5 @@ function removeArray(arr, item) {
     
     return arr;
 }
+
+alert("HCSKR-GITHUB-PAGES SCTIPT LOADED SUCCESSFULLY");
